@@ -27,7 +27,7 @@ int main(){
 	media = resultado(n1,n2);
 	
 	
-	printf("Média: %i",media);
+	printf("MÃ©dia: %i",media);
 	
 	return 0;
 	
